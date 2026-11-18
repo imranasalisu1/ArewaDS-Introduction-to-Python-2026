@@ -1,0 +1,1 @@
+stopwords = ['the', 'is', 'at', 'which', 'and', 'a', 'an', 'in', 'to', 'of', 'it', 'that', 'as', 'for', 'was', 'with', 'we', 'our']

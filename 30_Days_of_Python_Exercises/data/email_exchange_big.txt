@@ -1,0 +1,2 @@
+From user@domain.com to support@company.org regarding issue #123.
+Contact admin@python.org for details.
